@@ -1,5 +1,4 @@
-**Problem Statement of hack-a-sol** : Online grocery stores are a fresh yet booming industry although there are certain limitations to it. For instance, while searching for a local product like ”bhujiya sev” on an online retailer,the search usually yields many different options which all resemble each other, making it difficult for the consumers to choose the right product according to their preferences.
-We want you to create an ML model that can detect similarities between two products and giving a probability of how much the two products resemble each other. If the value crosses a threshold (which you set), it should tell whether the two are identical or nearly identical. Wrap an accessible front-end around the model, and make it available via an API call.
+**Problem Statement** : Create an ML model that can detect similarities between two products and giving a probability of how much the two products resemble each other. If the value crosses a threshold (which you set), it should tell whether the two are identical or nearly identical. Wrap an accessible front-end around the model, and make it available via an API call.
 
 
 **Description :**
